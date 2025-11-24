@@ -7,7 +7,7 @@ requirements = [
     "black<=21.12b0",
     "datasets>=1.7.0",
     "flake8",
-    "isort==5.8.0",
+    "isort==7.0.0",
     "pytest",
     "pyyaml>=5",
     "streamlit==0.82",
